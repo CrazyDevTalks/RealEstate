@@ -1,4 +1,4 @@
-# Tab navigation example
+# Real Estate
 
 <p>
   <!-- iOS -->
@@ -11,10 +11,11 @@
 
 ## 🚀 How to use
 
-- Install with `yarn` or `npm install`.
+- Install with `npm install`.
 - Run `yarn start` or `npm run start` to try it out.
 
 ## 📝 Notes
 
-- This is a very basic example from the [react navigation](https://reactnavigation.org/) docs.
-- [Tab navigation documentation](https://reactnavigation.org/docs/tab-based-navigation).
+- Android Running with `npm run android`
+- IOS Running with `npm run ios`
+- Web Running with `npm run web`
